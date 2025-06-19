@@ -35,7 +35,7 @@ Before you begin, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/project-evaluation-mvp.git
+   git clone https://github.com/realannieqiu/azure_ocr.git
    cd project-evaluation-mvp
    ```
 
@@ -59,7 +59,7 @@ Before you begin, ensure you have:
    AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com/
    AZURE_OPENAI_KEY=your-actual-api-key
    DEPLOYMENT_NAME=gpt-4o
-   API_VERSION=2024-02-15-preview
+   API_VERSION=your_api_version
    ```
 
 5. **Run the application**
