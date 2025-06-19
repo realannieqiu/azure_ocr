@@ -207,16 +207,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **FastAPI** for the excellent web framework
 - **OpenAI** for the GPT-4o model architecture
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/project-evaluation-mvp/issues) page
-2. Create a new issue with detailed description
-3. Include error messages and environment details
-
----
-
-## 🌟 Star this repository if you find it useful!
-
-**Made with ❤️ using Azure OpenAI GPT-4o** 
